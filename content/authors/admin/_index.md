@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-avatar_image: user-full.png
+avatar_image: luigi_marchionni_headshot.jpg
 bio: My research interests include cancer biology, `omics` and bioinformatic.
 btn:
 - label: Download Resume
@@ -35,13 +35,12 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/marchionnilab?lang=en
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=kGqPMb0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
