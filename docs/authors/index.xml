@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on marchionniLab</title>
+    <link>https://marchionniLab.github.io/marchionniLab/authors/</link>
+    <description>Recent content in Authors on marchionniLab</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://marchionniLab.github.io/marchionniLab/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://marchionniLab.github.io/marchionniLab/authors/admin/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://marchionniLab.github.io/marchionniLab/authors/admin/</guid>
+      <description>&lt;p&gt;In my lab we use quantitative approaches to interpret high-dimensional genomic data, understand cancer cell biology, and develop useful clinical tools to improve cancer patients&#39; outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>https://marchionniLab.github.io/marchionniLab/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://marchionniLab.github.io/marchionniLab/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
