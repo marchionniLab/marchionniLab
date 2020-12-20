@@ -41,6 +41,9 @@ subtitle = "a selection of packages developed by the lab"
     name = "RTopper"
     tag = "RTopper"
 
+  [[content.filter_button]]
+    name = "SwitchBox"
+    tag = "SwitchBox"
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

@@ -41,6 +41,7 @@ social:
   link: https://scholar.google.com/citations?user=kGqPMb0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
+  link: https://github.com/orgs/marchionniLab
 superuser: true
 user_groups:
 - Researchers
