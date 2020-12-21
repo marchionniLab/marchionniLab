@@ -15,27 +15,29 @@ subtitle = "Our lab expertise"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
+  icon = "briefcase-medical"
   icon_pack = "fas"
-  name = "Machine Learning"
+  name = "Cancer Medicine"
 
-  
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
   name = "Omics"
+  
+ 
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Predictive Modeling"
 
   
 [[feature]]
   icon = "laptop-code"
   icon_pack = "fas"
-  name = "R, Python, SQL"
+  name = "Coding"
 
   
-[[feature]]
-  icon = "briefcase-medical"
-  icon_pack = "fas"
-  name = "Cancer Medicine"
+
 
 
 +++

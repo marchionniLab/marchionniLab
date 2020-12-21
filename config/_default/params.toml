@@ -53,7 +53,7 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "lum4003@med.cornell.edu"
 phone = "888 888 88 88"
 address = "Building 1 Room 1, Stanford University, California, 90210, USA"
 
@@ -91,8 +91,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "40.765"
+longitude = "-73.956"
 zoom = 15
 
 ############################
