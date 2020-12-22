@@ -17,7 +17,7 @@ subtitle = "Our lab expertise"
 [[feature]]
   icon = "briefcase-medical"
   icon_pack = "fas"
-  name = "Cancer Medicine"
+  name = "Cancer Research"
 
 [[feature]]
   icon = "dna"

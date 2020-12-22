@@ -30,9 +30,14 @@
   weight = 50
 
 [[main]]
+  name = "People"
+  url = "#people"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # [[main]]
 #  name = "dropdown"

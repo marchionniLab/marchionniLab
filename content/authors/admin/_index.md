@@ -9,18 +9,17 @@ btn:
 display_education: false
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Ph.D. Structural and Functional Genomics
+    institution: International School of Advanced Studies (SISSA), Trieste, Italy
+    year: 2004
+  - course: MD
+    institution: School of Medicine, University of Turin, Italy
+    year: 1998
+
+
+email: "lum4003@med.cornell.edu"
 interests:
-- Genomic
+- Omics
 - Cancer Research
 - Machine Learning
 - Precision Medicine
@@ -44,8 +43,7 @@ social:
   link: https://github.com/orgs/marchionniLab
 superuser: true
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigator
 ---
 
 In my lab we use quantitative approaches to interpret high-dimensional genomic data, understand cancer cell biology, and develop useful clinical tools to improve cancer patients' outcomes.

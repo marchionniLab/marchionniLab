@@ -42,7 +42,7 @@ title = "Academia"
   label = "Contact us"
 
 +++
-## Luigi Marchionni Lab 
+## Marchionni Lab 
 
 Pathology and Laboratory Medicine Department of Weill Cornell Medicine.
 
