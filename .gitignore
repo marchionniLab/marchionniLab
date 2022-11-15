@@ -1,0 +1,10 @@
+.github
+.github-private
+universe
+
+.DS_Store
+.RData
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user
